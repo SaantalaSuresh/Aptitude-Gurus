@@ -81,7 +81,7 @@ const HomePage = () => {
             fringilla justo.
           </p>
         </div>
-        <div className="sidebar">
+        <div className="main-content">
           <h3>Recent Updates</h3>
           <ul>
             <li>Latest News</li>
